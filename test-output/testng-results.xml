@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="89356" started-at="2021-10-22T14:33:39Z" finished-at="2021-10-22T14:35:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="89356" started-at="2021-10-22T14:33:39Z" finished-at="2021-10-22T14:35:08Z">
+      <class name="org.demo.DemoClass">
+        <test-method status="PASS" signature="data(java.lang.String, java.lang.String)[pri:0, instance:org.demo.DemoClass@5e3a8624]" name="data" duration-ms="26997" started-at="2021-10-22T20:03:39Z" data-provider="login" finished-at="2021-10-22T20:04:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin17]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data -->
+        <test-method status="PASS" signature="data(java.lang.String, java.lang.String)[pri:0, instance:org.demo.DemoClass@5e3a8624]" name="data" duration-ms="18165" started-at="2021-10-22T20:04:06Z" data-provider="login" finished-at="2021-10-22T20:04:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin199]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin122]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data -->
+        <test-method status="PASS" signature="data(java.lang.String, java.lang.String)[pri:0, instance:org.demo.DemoClass@5e3a8624]" name="data" duration-ms="18912" started-at="2021-10-22T20:04:24Z" data-provider="login" finished-at="2021-10-22T20:04:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin178]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin142]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data -->
+        <test-method status="PASS" signature="data(java.lang.String, java.lang.String)[pri:0, instance:org.demo.DemoClass@5e3a8624]" name="data" duration-ms="25223" started-at="2021-10-22T20:04:43Z" data-provider="login" finished-at="2021-10-22T20:05:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin167]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin192]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data -->
+      </class> <!-- org.demo.DemoClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
